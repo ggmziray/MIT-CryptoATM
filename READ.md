@@ -1,6 +1,6 @@
 MIT - ATM Coding Excercise
 
-![](ATMBank/CryptoATM.png)
+![](MITCryptoATM/CryptoATM.png)
 
 Description
 Crypto Atlcoin ATM using HTML, React and CSS.
