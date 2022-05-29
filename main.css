@@ -1,0 +1,47 @@
+body{
+  background-color: black;
+}
+.center-div{
+  background-color: white;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  border: 2px solid black;
+  border-radius: 30px;
+  padding: 50px;
+}
+.title-crypto {
+margin: auto;
+text-align: center;
+align-items: center;
+margin-bottom: 10px;
+}
+
+.margin-buttom-12{
+  margin-bottom: 12px;
+}
+
+.action-below {
+  font-size: 20px;
+  font-weight: 600;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.drop-down {
+  margin: auto;
+  margin-bottom: 10px;
+  display: flex;
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  padding: 10px 20px;
+  font-size: 13px;
+  font-weight: 700;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 3px 7px 0px rgba(0, 0, 0, 0.151);
+}
