@@ -3,7 +3,7 @@ MIT - ATM Coding Excercise
 ![](MITCryptoATM/CryptoATM.png)
 
 Description
-Crypto Atlcoin ATM using HTML, React and CSS.
+Simple Crypto Atlcoin ATM using HTML, CSS and/or React.
 
 Author
 Gillead-Gary Mziray
